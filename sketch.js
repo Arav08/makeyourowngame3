@@ -19,11 +19,11 @@ function preload(){
   //zucchiniImg = loadImage("images/zucchini1.png")
   lettuceImg = loadImage("images/lettuce1.png")
   gingerImg = loadImage("images/ginger1.png")
-  corianderImg = loadImage("images/coriander1.PNG")
+  corianderImg = loadImage("images/coriander1.png")
   basilImg = loadImage("images/basil1.png")
   squashImg = loadImage("images/squash1.png")
   
-  knifeImg = loadImage("images/knife1.PNG")
+  knifeImg = loadImage("knife1.png")
 }
 
 function setup(){
